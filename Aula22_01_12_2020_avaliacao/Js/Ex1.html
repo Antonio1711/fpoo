@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício 1</title>
+</head>
+<body>
+    <script>
+        var n1, n2, n3, n4, mf
+
+        n1 = parseFloat(prompt("Digite a primeira nota: "))
+        n2 = parseFloat(prompt("Digite a segunda nota: "))
+        n3 = parseFloat(prompt("Digite a terceira nota: "))
+        n4 = parseFloat(prompt("Digite a quarta nota: "))
+
+        mf = (n1 + n2 + n3 + n4) / 4
+
+        if (mf < 5) {
+            alert(`Sua média é ${mf} \nVocê foi reprovado!`)
+        }
+        else if (mf >= 7) {
+            alert(`Sua média é ${mf} \nVocê foi aprovado!`)
+        }
+        else{
+            alert(`Sua média é ${mf} \nVocê está de recuperação!`)
+        }
+    </script>
+</body>
+</html>

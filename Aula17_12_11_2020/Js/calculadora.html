@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora</title>
+</head>
+<body>
+    <script>
+        var num1, num2, op
+
+        alert("Digite o número da operação que deseja realizar para posteriormente escolher o(s) número(s): ")
+
+        op = parseInt(prompt("1. Adição(+) \n2. Subtração(-) \n3. Multiplicação(*) \n4. Divisão(/) \n5. Potenciação(^) \n6. Raiz quadrada \n7. Conversão de real para moeda estrangeira \n8. Conversão de moeda estrangeira para real \n9. Conversão de Celsius para Fahrenheit \n10. Conversão de Fahrenheit para Celsius \nDigite o número abaixo: "))
+
+        switch (op)
+            {
+                case (op = 1): 
+                    num1 = parseFloat(prompt("Digite o primeiro número: "));
+                    num2 = parseFloat(prompt("Digite o segundo número: "));
+                    alert(num1 + " + " + num2 + " = " + (num1 + num2));
+                    break;
+                case (op = 2): 
+                    num1 = parseFloat(prompt("Digite o primeiro número: "));
+                    num2 = parseFloat(prompt("Digite o segundo número: "));
+                    alert(num1 + " - " + num2 + " = " + (num1 - num2));
+                    break;
+                case (op = 3): 
+                    num1 = parseFloat(prompt("Digite o primeiro número: "));
+                    num2 = parseFloat(prompt("Digite o segundo número: "));
+                    alert(num1 + " * " + num2 + " = " + (num1 * num2));
+                    break;
+                case (op = 4): 
+                    num1 = parseFloat(prompt("Digite o primeiro número: "));
+                    num2 = parseFloat(prompt("Digite o segundo número: "));
+                    alert(num1 + " / " + num2 + " = " + (num1 / num2));
+                    break;
+                case (op = 5): 
+                    num1 = parseFloat(prompt("Digite a base: "));
+                    num2 = parseFloat(prompt("Digite o expoente: "));
+                    alert(num1 + " ^ " + num2 + " = " + (num1 ** num2));
+                    break;
+                case (op = 6): 
+                    num1 = parseFloat(prompt("Digite o número: "));
+                    alert("√ " + num1 + " = " + (Math.sqrt(num1)));
+                    break;
+                case (op = 7): 
+                    num1 = parseFloat(prompt("Digite o valor em real que deseja converter: "));
+
+                    num2 = parseFloat(prompt("1. Dólar americano \n2. Euro \n3. Libra Esterlina \nDigite o número da moeda estrangeira: "));
+
+                    switch (num2)
+                    {
+                        case (num2 = 1):
+                        alert("Seu valor em Dólar americano é: " + (num1 * 0.18));
+                        break;
+                        case (num2 = 2):
+                        alert("Seu valor em Euro é: " + (num1 * 0.15));
+                        break;
+                        case (num2 = 3):
+                        alert("Seu valor em Libra esterlina é: " + (num1 * 0.14));
+                        break;
+                        default:
+                        alert("Número inválido");
+                        break;
+                    }
+                    break;
+                case (op = 8): 
+                    num1 = parseFloat(prompt("Digite o valor da moeda estrangeira que deseja converter para real: "));
+                    num2 = parseFloat(prompt("1. Dólar americano \n2. Euro \n3. Libra Esterlina \nDigite o número da moeda estrangeira: "));
+
+                    switch (num2)
+                    {
+                        case (num2 = 1):
+                        alert("Seu valor em Real é: " + (num1 * 5.43));
+                        break;
+                        case (num2 = 2):
+                        alert("Seu valor em Real é: " + (num1 * 6.46));
+                        break;
+                        case (num2 = 3):
+                        alert("Seu valor em Real é: " + (num1 * 7.19));
+                        break;
+                        default:
+                        alert("Número inválido");
+                        break;
+                    }
+                    break;
+                case (op = 9): 
+                    num1 = parseFloat(prompt("Digite a temperatura em Celsius que deseja converter para Fahrenheit: "));
+                    alert("Sua temperatura em Fahrenheit: " + ((9 * num1 + 160) / 5));
+                    break;
+                case (op = 10): 
+                    num1 = parseFloat(prompt("Digite a temperatura em Fahrenheit que deseja converter para Celsius: "));
+                    alert("Sua temperatura em Celsius: " + ((num1 - 32) * 5/9));
+                    break;
+                default:
+                    alert("Opção inválida, tente novamente");
+                    break;
+            }
+    </script>
+</body>
+</html>

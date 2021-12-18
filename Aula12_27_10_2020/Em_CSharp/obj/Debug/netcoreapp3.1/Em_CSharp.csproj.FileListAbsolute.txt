@@ -1,0 +1,39 @@
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula12_27_10_2020\Em_CSharp\bin\Debug\netcoreapp3.1\Em_CSharp.exe
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula12_27_10_2020\Em_CSharp\bin\Debug\netcoreapp3.1\Em_CSharp.deps.json
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula12_27_10_2020\Em_CSharp\bin\Debug\netcoreapp3.1\Em_CSharp.runtimeconfig.json
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula12_27_10_2020\Em_CSharp\bin\Debug\netcoreapp3.1\Em_CSharp.runtimeconfig.dev.json
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula12_27_10_2020\Em_CSharp\bin\Debug\netcoreapp3.1\Em_CSharp.dll
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula12_27_10_2020\Em_CSharp\bin\Debug\netcoreapp3.1\Em_CSharp.pdb
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula12_27_10_2020\Em_CSharp\obj\Debug\netcoreapp3.1\Em_CSharp.csprojAssemblyReference.cache
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula12_27_10_2020\Em_CSharp\obj\Debug\netcoreapp3.1\Em_CSharp.AssemblyInfoInputs.cache
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula12_27_10_2020\Em_CSharp\obj\Debug\netcoreapp3.1\Em_CSharp.AssemblyInfo.cs
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula12_27_10_2020\Em_CSharp\obj\Debug\netcoreapp3.1\Em_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula12_27_10_2020\Em_CSharp\obj\Debug\netcoreapp3.1\Em_CSharp.dll
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula12_27_10_2020\Em_CSharp\obj\Debug\netcoreapp3.1\Em_CSharp.pdb
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula12_27_10_2020\Em_CSharp\obj\Debug\netcoreapp3.1\Em_CSharp.genruntimeconfig.cache
+C:\Users\Aluno\Documents\1DM Teste\Aula12_27_10_2020\Aula12_27_10_2020\Em_CSharp\bin\Debug\netcoreapp3.1\Em_CSharp.exe
+C:\Users\Aluno\Documents\1DM Teste\Aula12_27_10_2020\Aula12_27_10_2020\Em_CSharp\bin\Debug\netcoreapp3.1\Em_CSharp.deps.json
+C:\Users\Aluno\Documents\1DM Teste\Aula12_27_10_2020\Aula12_27_10_2020\Em_CSharp\bin\Debug\netcoreapp3.1\Em_CSharp.runtimeconfig.json
+C:\Users\Aluno\Documents\1DM Teste\Aula12_27_10_2020\Aula12_27_10_2020\Em_CSharp\bin\Debug\netcoreapp3.1\Em_CSharp.runtimeconfig.dev.json
+C:\Users\Aluno\Documents\1DM Teste\Aula12_27_10_2020\Aula12_27_10_2020\Em_CSharp\bin\Debug\netcoreapp3.1\Em_CSharp.dll
+C:\Users\Aluno\Documents\1DM Teste\Aula12_27_10_2020\Aula12_27_10_2020\Em_CSharp\bin\Debug\netcoreapp3.1\Em_CSharp.pdb
+C:\Users\Aluno\Documents\1DM Teste\Aula12_27_10_2020\Aula12_27_10_2020\Em_CSharp\obj\Debug\netcoreapp3.1\Em_CSharp.csprojAssemblyReference.cache
+C:\Users\Aluno\Documents\1DM Teste\Aula12_27_10_2020\Aula12_27_10_2020\Em_CSharp\obj\Debug\netcoreapp3.1\Em_CSharp.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\1DM Teste\Aula12_27_10_2020\Aula12_27_10_2020\Em_CSharp\obj\Debug\netcoreapp3.1\Em_CSharp.AssemblyInfo.cs
+C:\Users\Aluno\Documents\1DM Teste\Aula12_27_10_2020\Aula12_27_10_2020\Em_CSharp\obj\Debug\netcoreapp3.1\Em_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\1DM Teste\Aula12_27_10_2020\Aula12_27_10_2020\Em_CSharp\obj\Debug\netcoreapp3.1\Em_CSharp.dll
+C:\Users\Aluno\Documents\1DM Teste\Aula12_27_10_2020\Aula12_27_10_2020\Em_CSharp\obj\Debug\netcoreapp3.1\Em_CSharp.pdb
+C:\Users\Aluno\Documents\1DM Teste\Aula12_27_10_2020\Aula12_27_10_2020\Em_CSharp\obj\Debug\netcoreapp3.1\Em_CSharp.genruntimeconfig.cache
+C:\Users\Aluno\Documents\1DM Teste\Em_CSharp\bin\Debug\netcoreapp3.1\Em_CSharp.exe
+C:\Users\Aluno\Documents\1DM Teste\Em_CSharp\bin\Debug\netcoreapp3.1\Em_CSharp.deps.json
+C:\Users\Aluno\Documents\1DM Teste\Em_CSharp\bin\Debug\netcoreapp3.1\Em_CSharp.runtimeconfig.json
+C:\Users\Aluno\Documents\1DM Teste\Em_CSharp\bin\Debug\netcoreapp3.1\Em_CSharp.runtimeconfig.dev.json
+C:\Users\Aluno\Documents\1DM Teste\Em_CSharp\bin\Debug\netcoreapp3.1\Em_CSharp.dll
+C:\Users\Aluno\Documents\1DM Teste\Em_CSharp\bin\Debug\netcoreapp3.1\Em_CSharp.pdb
+C:\Users\Aluno\Documents\1DM Teste\Em_CSharp\obj\Debug\netcoreapp3.1\Em_CSharp.csprojAssemblyReference.cache
+C:\Users\Aluno\Documents\1DM Teste\Em_CSharp\obj\Debug\netcoreapp3.1\Em_CSharp.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\1DM Teste\Em_CSharp\obj\Debug\netcoreapp3.1\Em_CSharp.AssemblyInfo.cs
+C:\Users\Aluno\Documents\1DM Teste\Em_CSharp\obj\Debug\netcoreapp3.1\Em_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\1DM Teste\Em_CSharp\obj\Debug\netcoreapp3.1\Em_CSharp.dll
+C:\Users\Aluno\Documents\1DM Teste\Em_CSharp\obj\Debug\netcoreapp3.1\Em_CSharp.pdb
+C:\Users\Aluno\Documents\1DM Teste\Em_CSharp\obj\Debug\netcoreapp3.1\Em_CSharp.genruntimeconfig.cache

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var a, b, c
+
+        a = parseFloat(prompt("Digite o valor de A:"))
+        b = parseFloat(prompt("Digite o valor de B:"))
+        c = parseFloat(prompt("Digite o valor de C:"))
+
+        if (a == b && b == c)
+            {
+                alert("É um triângulo equilátero");
+            }
+            else if (a == b || a == c || b == c)
+            {
+                alert("É um triângulo isósceles");
+            }
+            else
+            {
+                alert("É um triângulo escaleno");
+            }
+    </script>
+</body>
+</html>

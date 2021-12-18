@@ -1,0 +1,13 @@
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula15_05_11_2020\Exercírcio\Cs\bin\Debug\netcoreapp3.1\Cs.exe
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula15_05_11_2020\Exercírcio\Cs\bin\Debug\netcoreapp3.1\Cs.deps.json
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula15_05_11_2020\Exercírcio\Cs\bin\Debug\netcoreapp3.1\Cs.runtimeconfig.json
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula15_05_11_2020\Exercírcio\Cs\bin\Debug\netcoreapp3.1\Cs.runtimeconfig.dev.json
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula15_05_11_2020\Exercírcio\Cs\bin\Debug\netcoreapp3.1\Cs.dll
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula15_05_11_2020\Exercírcio\Cs\bin\Debug\netcoreapp3.1\Cs.pdb
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula15_05_11_2020\Exercírcio\Cs\obj\Debug\netcoreapp3.1\Cs.csprojAssemblyReference.cache
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula15_05_11_2020\Exercírcio\Cs\obj\Debug\netcoreapp3.1\Cs.AssemblyInfoInputs.cache
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula15_05_11_2020\Exercírcio\Cs\obj\Debug\netcoreapp3.1\Cs.AssemblyInfo.cs
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula15_05_11_2020\Exercírcio\Cs\obj\Debug\netcoreapp3.1\Cs.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula15_05_11_2020\Exercírcio\Cs\obj\Debug\netcoreapp3.1\Cs.dll
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula15_05_11_2020\Exercírcio\Cs\obj\Debug\netcoreapp3.1\Cs.pdb
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula15_05_11_2020\Exercírcio\Cs\obj\Debug\netcoreapp3.1\Cs.genruntimeconfig.cache

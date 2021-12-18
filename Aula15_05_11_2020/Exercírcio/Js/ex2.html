@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo 2</title>
+</head>
+<body>
+    <script>
+        var n, r_4, r_5
+
+        n = parseInt(prompt("Para descobrir se o número é divisível 4 e 5, digite o número: "))
+
+        r_4 = n % 4; 
+        r_5 = n % 5;
+
+        if (r_4 == 0 && r_5 == 0)
+        {
+            alert(n);
+        }
+        else
+        {
+            alert("Não é divisível por 4 e 5");
+        }
+    </script>
+</body>
+</html>

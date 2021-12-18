@@ -1,0 +1,13 @@
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula_06_01_10_2020\Desafio_cs\bin\Debug\netcoreapp3.1\Desafio_cs.exe
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula_06_01_10_2020\Desafio_cs\bin\Debug\netcoreapp3.1\Desafio_cs.deps.json
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula_06_01_10_2020\Desafio_cs\bin\Debug\netcoreapp3.1\Desafio_cs.runtimeconfig.json
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula_06_01_10_2020\Desafio_cs\bin\Debug\netcoreapp3.1\Desafio_cs.runtimeconfig.dev.json
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula_06_01_10_2020\Desafio_cs\bin\Debug\netcoreapp3.1\Desafio_cs.dll
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula_06_01_10_2020\Desafio_cs\bin\Debug\netcoreapp3.1\Desafio_cs.pdb
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula_06_01_10_2020\Desafio_cs\obj\Debug\netcoreapp3.1\Desafio_cs.csprojAssemblyReference.cache
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula_06_01_10_2020\Desafio_cs\obj\Debug\netcoreapp3.1\Desafio_cs.AssemblyInfoInputs.cache
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula_06_01_10_2020\Desafio_cs\obj\Debug\netcoreapp3.1\Desafio_cs.AssemblyInfo.cs
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula_06_01_10_2020\Desafio_cs\obj\Debug\netcoreapp3.1\Desafio_cs.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula_06_01_10_2020\Desafio_cs\obj\Debug\netcoreapp3.1\Desafio_cs.dll
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula_06_01_10_2020\Desafio_cs\obj\Debug\netcoreapp3.1\Desafio_cs.pdb
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula_06_01_10_2020\Desafio_cs\obj\Debug\netcoreapp3.1\Desafio_cs.genruntimeconfig.cache

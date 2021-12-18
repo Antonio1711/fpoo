@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        //Declarar variáveis
+        var dist, tempo, vel_med, litros_usados;
+
+        //Entrada(s)
+        tempo = prompt("Digite o tempo gasto de viagem: ");
+
+        vel_med = prompt("Digite a velocidade média: ");
+
+        //Processamento(s)
+        dist = tempo *  vel_med;
+
+        litros_usados = dist / 12;
+
+        //Saída(s)
+        alert("Foram gastos " + litros_usados.toFixed(2) + " litros de combustível.");
+    </script>
+</body>
+</html>

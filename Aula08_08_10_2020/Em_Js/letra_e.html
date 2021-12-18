@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width>>, initial-scale=1.0">
+    <title>Prestação</title>
+</head>
+<body>
+    <script>
+        //Declarar variáveis
+        var valor, taxa, tempo, prest;
+
+        //Entrada(s)
+        valor = parseFloat(prompt("Digite o valor: "));
+        taxa = parseFloat(prompt("Digite a taxa de atraso: "));
+        tempo = parseFloat(prompt("Digite o tempo de atraso: "));
+        
+        //Processamento(s)
+        prest = valor + (valor + (taxa / 100) * tempo);
+
+        //Saída(s)
+        alert("O valor de sua prestação é: R$" + prest.toFixed(2));
+    </script>        
+</body>
+</html>

@@ -1,0 +1,25 @@
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula08_08_10_2020\Em_Cs\bin\Debug\netcoreapp3.1\Em_Cs.exe
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula08_08_10_2020\Em_Cs\bin\Debug\netcoreapp3.1\Em_Cs.deps.json
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula08_08_10_2020\Em_Cs\bin\Debug\netcoreapp3.1\Em_Cs.runtimeconfig.json
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula08_08_10_2020\Em_Cs\bin\Debug\netcoreapp3.1\Em_Cs.runtimeconfig.dev.json
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula08_08_10_2020\Em_Cs\bin\Debug\netcoreapp3.1\Em_Cs.dll
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula08_08_10_2020\Em_Cs\bin\Debug\netcoreapp3.1\Em_Cs.pdb
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula08_08_10_2020\Em_Cs\obj\Debug\netcoreapp3.1\Em_Cs.csprojAssemblyReference.cache
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula08_08_10_2020\Em_Cs\obj\Debug\netcoreapp3.1\Em_Cs.AssemblyInfoInputs.cache
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula08_08_10_2020\Em_Cs\obj\Debug\netcoreapp3.1\Em_Cs.AssemblyInfo.cs
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula08_08_10_2020\Em_Cs\obj\Debug\netcoreapp3.1\Em_Cs.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula08_08_10_2020\Em_Cs\obj\Debug\netcoreapp3.1\Em_Cs.dll
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula08_08_10_2020\Em_Cs\obj\Debug\netcoreapp3.1\Em_Cs.pdb
+C:\Users\Antonio\Documents\Lições\SENAI\FPOO_1DM\Aula08_08_10_2020\Em_Cs\obj\Debug\netcoreapp3.1\Em_Cs.genruntimeconfig.cache
+C:\Users\Aluno\Antonio\OneDrive - SESISENAISP - Escolas\FPOO_1DM\Aula08_08_10_2020\Em_Cs\obj\Debug\netcoreapp3.1\Em_Cs.csprojAssemblyReference.cache
+C:\Users\Aluno\Antonio\OneDrive - SESISENAISP - Escolas\FPOO_1DM\Aula08_08_10_2020\Em_Cs\obj\Debug\netcoreapp3.1\Em_Cs.AssemblyInfoInputs.cache
+C:\Users\Aluno\Antonio\OneDrive - SESISENAISP - Escolas\FPOO_1DM\Aula08_08_10_2020\Em_Cs\obj\Debug\netcoreapp3.1\Em_Cs.AssemblyInfo.cs
+C:\Users\Aluno\Antonio\OneDrive - SESISENAISP - Escolas\FPOO_1DM\Aula08_08_10_2020\Em_Cs\obj\Debug\netcoreapp3.1\Em_Cs.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Antonio\OneDrive - SESISENAISP - Escolas\FPOO_1DM\Aula08_08_10_2020\Em_Cs\obj\Debug\netcoreapp3.1\Em_Cs.dll
+C:\Users\Aluno\Antonio\OneDrive - SESISENAISP - Escolas\FPOO_1DM\Aula08_08_10_2020\Em_Cs\obj\Debug\netcoreapp3.1\Em_Cs.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\FPOO_1DM\Aula08_08_10_2020\Em_Cs\obj\Debug\netcoreapp3.1\Em_Cs.csprojAssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\FPOO_1DM\Aula08_08_10_2020\Em_Cs\obj\Debug\netcoreapp3.1\Em_Cs.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\FPOO_1DM\Aula08_08_10_2020\Em_Cs\obj\Debug\netcoreapp3.1\Em_Cs.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\FPOO_1DM\Aula08_08_10_2020\Em_Cs\obj\Debug\netcoreapp3.1\Em_Cs.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\FPOO_1DM\Aula08_08_10_2020\Em_Cs\obj\Debug\netcoreapp3.1\Em_Cs.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\FPOO_1DM\Aula08_08_10_2020\Em_Cs\obj\Debug\netcoreapp3.1\Em_Cs.pdb

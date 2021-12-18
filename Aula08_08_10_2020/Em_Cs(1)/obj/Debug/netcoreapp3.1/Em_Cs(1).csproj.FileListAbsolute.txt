@@ -1,0 +1,13 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\FPOO_1DM\Aula08_08_10_2020\Em_Cs(1)\bin\Debug\netcoreapp3.1\Em_Cs(1).exe
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\FPOO_1DM\Aula08_08_10_2020\Em_Cs(1)\bin\Debug\netcoreapp3.1\Em_Cs(1).deps.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\FPOO_1DM\Aula08_08_10_2020\Em_Cs(1)\bin\Debug\netcoreapp3.1\Em_Cs(1).runtimeconfig.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\FPOO_1DM\Aula08_08_10_2020\Em_Cs(1)\bin\Debug\netcoreapp3.1\Em_Cs(1).runtimeconfig.dev.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\FPOO_1DM\Aula08_08_10_2020\Em_Cs(1)\bin\Debug\netcoreapp3.1\Em_Cs(1).dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\FPOO_1DM\Aula08_08_10_2020\Em_Cs(1)\bin\Debug\netcoreapp3.1\Em_Cs(1).pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\FPOO_1DM\Aula08_08_10_2020\Em_Cs(1)\obj\Debug\netcoreapp3.1\Em_Cs(1).csprojAssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\FPOO_1DM\Aula08_08_10_2020\Em_Cs(1)\obj\Debug\netcoreapp3.1\Em_Cs(1).AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\FPOO_1DM\Aula08_08_10_2020\Em_Cs(1)\obj\Debug\netcoreapp3.1\Em_Cs(1).AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\FPOO_1DM\Aula08_08_10_2020\Em_Cs(1)\obj\Debug\netcoreapp3.1\Em_Cs(1).csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\FPOO_1DM\Aula08_08_10_2020\Em_Cs(1)\obj\Debug\netcoreapp3.1\Em_Cs(1).dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\FPOO_1DM\Aula08_08_10_2020\Em_Cs(1)\obj\Debug\netcoreapp3.1\Em_Cs(1).pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\FPOO_1DM\Aula08_08_10_2020\Em_Cs(1)\obj\Debug\netcoreapp3.1\Em_Cs(1).genruntimeconfig.cache

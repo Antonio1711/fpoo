@@ -1,0 +1,13 @@
+C:\Users\Aluno\Documents\Antonio1DM\fpoo\Aula34_14_01_2020\Cs\Exercícios\bin\Debug\netcoreapp3.1\Exercícios.exe
+C:\Users\Aluno\Documents\Antonio1DM\fpoo\Aula34_14_01_2020\Cs\Exercícios\bin\Debug\netcoreapp3.1\Exercícios.deps.json
+C:\Users\Aluno\Documents\Antonio1DM\fpoo\Aula34_14_01_2020\Cs\Exercícios\bin\Debug\netcoreapp3.1\Exercícios.runtimeconfig.json
+C:\Users\Aluno\Documents\Antonio1DM\fpoo\Aula34_14_01_2020\Cs\Exercícios\bin\Debug\netcoreapp3.1\Exercícios.runtimeconfig.dev.json
+C:\Users\Aluno\Documents\Antonio1DM\fpoo\Aula34_14_01_2020\Cs\Exercícios\bin\Debug\netcoreapp3.1\Exercícios.dll
+C:\Users\Aluno\Documents\Antonio1DM\fpoo\Aula34_14_01_2020\Cs\Exercícios\bin\Debug\netcoreapp3.1\Exercícios.pdb
+C:\Users\Aluno\Documents\Antonio1DM\fpoo\Aula34_14_01_2020\Cs\Exercícios\obj\Debug\netcoreapp3.1\Exercícios.csprojAssemblyReference.cache
+C:\Users\Aluno\Documents\Antonio1DM\fpoo\Aula34_14_01_2020\Cs\Exercícios\obj\Debug\netcoreapp3.1\Exercícios.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Antonio1DM\fpoo\Aula34_14_01_2020\Cs\Exercícios\obj\Debug\netcoreapp3.1\Exercícios.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Antonio1DM\fpoo\Aula34_14_01_2020\Cs\Exercícios\obj\Debug\netcoreapp3.1\Exercícios.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Antonio1DM\fpoo\Aula34_14_01_2020\Cs\Exercícios\obj\Debug\netcoreapp3.1\Exercícios.dll
+C:\Users\Aluno\Documents\Antonio1DM\fpoo\Aula34_14_01_2020\Cs\Exercícios\obj\Debug\netcoreapp3.1\Exercícios.pdb
+C:\Users\Aluno\Documents\Antonio1DM\fpoo\Aula34_14_01_2020\Cs\Exercícios\obj\Debug\netcoreapp3.1\Exercícios.genruntimeconfig.cache

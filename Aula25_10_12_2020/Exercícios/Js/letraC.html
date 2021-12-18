@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Letra C</title>
+</head>
+<body>
+    <script>
+        var matrizA = new Array (20), matrizB = new Array (20), matrizC = new Array (20)
+
+        alert("Matriz A:")
+        for (let i = 0; i < 20; i++)
+        {
+            matrizA[i] = parseInt(prompt(`Digite o ${i}º número: `))
+        }
+
+        alert("Matriz B:")
+        for (let i = 0; i < 20; i++)
+        {
+            matrizB[i] = parseInt(prompt(`Digite o ${i}º número:`))
+        }
+
+        alert("Matriz C (resultado no console):")
+        for (let i = 0; i < 20; i++)
+        {
+            matrizC[i] = matrizA[i] - matrizB[i]
+
+            console.log(`${i}º número = ${matrizC[i]}`)
+        }
+    </script>
+</body>
+</html>

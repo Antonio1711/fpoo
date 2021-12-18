@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Letra D</title>
+</head>
+<body>
+    <script>
+        var matrizA = new Array (15), matrizB = new Array (15)
+
+        alert("Matriz A:")
+        for (let i = 0; i < 15; i++)
+        {
+            matrizA[i] = parseInt(prompt(`Digite o ${i}º número:`))
+
+            matrizB[i] = matrizA[i] ** 2
+        }
+
+        alert("Matriz B (saída no console):")
+        for (let i = 0; i < 15; i++)
+        {
+            console.log(`${i}º número = ${matrizB[i]}`)
+        }
+    </script>
+</body>
+</html>

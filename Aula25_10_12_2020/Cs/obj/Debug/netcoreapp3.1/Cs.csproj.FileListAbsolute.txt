@@ -1,0 +1,13 @@
+C:\Users\Aluno\Documents\Antonio 1DM\Aula25_10_12_2020\Cs\bin\Debug\netcoreapp3.1\Cs.exe
+C:\Users\Aluno\Documents\Antonio 1DM\Aula25_10_12_2020\Cs\bin\Debug\netcoreapp3.1\Cs.deps.json
+C:\Users\Aluno\Documents\Antonio 1DM\Aula25_10_12_2020\Cs\bin\Debug\netcoreapp3.1\Cs.runtimeconfig.json
+C:\Users\Aluno\Documents\Antonio 1DM\Aula25_10_12_2020\Cs\bin\Debug\netcoreapp3.1\Cs.runtimeconfig.dev.json
+C:\Users\Aluno\Documents\Antonio 1DM\Aula25_10_12_2020\Cs\bin\Debug\netcoreapp3.1\Cs.dll
+C:\Users\Aluno\Documents\Antonio 1DM\Aula25_10_12_2020\Cs\bin\Debug\netcoreapp3.1\Cs.pdb
+C:\Users\Aluno\Documents\Antonio 1DM\Aula25_10_12_2020\Cs\obj\Debug\netcoreapp3.1\Cs.csprojAssemblyReference.cache
+C:\Users\Aluno\Documents\Antonio 1DM\Aula25_10_12_2020\Cs\obj\Debug\netcoreapp3.1\Cs.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Antonio 1DM\Aula25_10_12_2020\Cs\obj\Debug\netcoreapp3.1\Cs.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Antonio 1DM\Aula25_10_12_2020\Cs\obj\Debug\netcoreapp3.1\Cs.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Antonio 1DM\Aula25_10_12_2020\Cs\obj\Debug\netcoreapp3.1\Cs.dll
+C:\Users\Aluno\Documents\Antonio 1DM\Aula25_10_12_2020\Cs\obj\Debug\netcoreapp3.1\Cs.pdb
+C:\Users\Aluno\Documents\Antonio 1DM\Aula25_10_12_2020\Cs\obj\Debug\netcoreapp3.1\Cs.genruntimeconfig.cache

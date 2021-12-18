@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Letra B</title>
+</head>
+<body>
+    <script>
+        var matrizA = new Array(8), matrizB = new Array(8)
+
+        for (let i = 0; i < matrizA.length; i++)
+        {
+            matrizA[i] = parseInt(prompt(`Informe o elemento ${i}`))
+
+            matrizB[i] = 3 * matrizA[i]
+        }
+        alert("Resultado no console!")
+
+        console.log("Vetor B:")
+        for (let i = 0; i < matrizA.length; i++)
+        {
+            console.log(`\nElemento ${i} = Vetor A: ${matrizA[i]} e Vetor B: ${matrizB[i]}`)
+        }
+    </script>
+</body>
+</html>

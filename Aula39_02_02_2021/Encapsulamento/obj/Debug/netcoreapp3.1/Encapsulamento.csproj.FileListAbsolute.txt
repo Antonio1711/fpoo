@@ -1,0 +1,13 @@
+C:\Users\Aluno\Documents\Antonio1DM\Aula38_02_02_2021\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.exe
+C:\Users\Aluno\Documents\Antonio1DM\Aula38_02_02_2021\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.deps.json
+C:\Users\Aluno\Documents\Antonio1DM\Aula38_02_02_2021\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.runtimeconfig.json
+C:\Users\Aluno\Documents\Antonio1DM\Aula38_02_02_2021\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.runtimeconfig.dev.json
+C:\Users\Aluno\Documents\Antonio1DM\Aula38_02_02_2021\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.dll
+C:\Users\Aluno\Documents\Antonio1DM\Aula38_02_02_2021\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.pdb
+C:\Users\Aluno\Documents\Antonio1DM\Aula38_02_02_2021\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.csprojAssemblyReference.cache
+C:\Users\Aluno\Documents\Antonio1DM\Aula38_02_02_2021\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Antonio1DM\Aula38_02_02_2021\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Antonio1DM\Aula38_02_02_2021\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Antonio1DM\Aula38_02_02_2021\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.dll
+C:\Users\Aluno\Documents\Antonio1DM\Aula38_02_02_2021\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.pdb
+C:\Users\Aluno\Documents\Antonio1DM\Aula38_02_02_2021\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.genruntimeconfig.cache

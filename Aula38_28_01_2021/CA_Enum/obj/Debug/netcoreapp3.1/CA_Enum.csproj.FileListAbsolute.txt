@@ -1,0 +1,13 @@
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula36_28_01_2020\CA_Enum\obj\Debug\netcoreapp3.1\CA_Enum.csprojAssemblyReference.cache
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula36_28_01_2020\CA_Enum\obj\Debug\netcoreapp3.1\CA_Enum.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula36_28_01_2020\CA_Enum\obj\Debug\netcoreapp3.1\CA_Enum.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula36_28_01_2020\CA_Enum\obj\Debug\netcoreapp3.1\CA_Enum.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula36_28_01_2020\CA_Enum\bin\Debug\netcoreapp3.1\CA_Enum.exe
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula36_28_01_2020\CA_Enum\bin\Debug\netcoreapp3.1\CA_Enum.deps.json
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula36_28_01_2020\CA_Enum\bin\Debug\netcoreapp3.1\CA_Enum.runtimeconfig.json
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula36_28_01_2020\CA_Enum\bin\Debug\netcoreapp3.1\CA_Enum.runtimeconfig.dev.json
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula36_28_01_2020\CA_Enum\bin\Debug\netcoreapp3.1\CA_Enum.dll
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula36_28_01_2020\CA_Enum\bin\Debug\netcoreapp3.1\CA_Enum.pdb
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula36_28_01_2020\CA_Enum\obj\Debug\netcoreapp3.1\CA_Enum.dll
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula36_28_01_2020\CA_Enum\obj\Debug\netcoreapp3.1\CA_Enum.pdb
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula36_28_01_2020\CA_Enum\obj\Debug\netcoreapp3.1\CA_Enum.genruntimeconfig.cache

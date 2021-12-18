@@ -1,0 +1,13 @@
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula40_08_02_2021\bin\Debug\netcoreapp3.1\Aula40_08_02_2021.exe
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula40_08_02_2021\bin\Debug\netcoreapp3.1\Aula40_08_02_2021.deps.json
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula40_08_02_2021\bin\Debug\netcoreapp3.1\Aula40_08_02_2021.runtimeconfig.json
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula40_08_02_2021\bin\Debug\netcoreapp3.1\Aula40_08_02_2021.runtimeconfig.dev.json
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula40_08_02_2021\bin\Debug\netcoreapp3.1\Aula40_08_02_2021.dll
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula40_08_02_2021\bin\Debug\netcoreapp3.1\Aula40_08_02_2021.pdb
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula40_08_02_2021\obj\Debug\netcoreapp3.1\Aula40_08_02_2021.csprojAssemblyReference.cache
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula40_08_02_2021\obj\Debug\netcoreapp3.1\Aula40_08_02_2021.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula40_08_02_2021\obj\Debug\netcoreapp3.1\Aula40_08_02_2021.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula40_08_02_2021\obj\Debug\netcoreapp3.1\Aula40_08_02_2021.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula40_08_02_2021\obj\Debug\netcoreapp3.1\Aula40_08_02_2021.dll
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula40_08_02_2021\obj\Debug\netcoreapp3.1\Aula40_08_02_2021.pdb
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula40_08_02_2021\obj\Debug\netcoreapp3.1\Aula40_08_02_2021.genruntimeconfig.cache

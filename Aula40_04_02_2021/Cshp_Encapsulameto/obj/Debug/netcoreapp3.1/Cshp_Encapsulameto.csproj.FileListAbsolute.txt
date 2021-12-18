@@ -1,0 +1,13 @@
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula39_04_02_2021\Cshp_Encapsulameto\bin\Debug\netcoreapp3.1\Cshp_Encapsulameto.exe
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula39_04_02_2021\Cshp_Encapsulameto\bin\Debug\netcoreapp3.1\Cshp_Encapsulameto.deps.json
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula39_04_02_2021\Cshp_Encapsulameto\bin\Debug\netcoreapp3.1\Cshp_Encapsulameto.runtimeconfig.json
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula39_04_02_2021\Cshp_Encapsulameto\bin\Debug\netcoreapp3.1\Cshp_Encapsulameto.runtimeconfig.dev.json
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula39_04_02_2021\Cshp_Encapsulameto\bin\Debug\netcoreapp3.1\Cshp_Encapsulameto.dll
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula39_04_02_2021\Cshp_Encapsulameto\bin\Debug\netcoreapp3.1\Cshp_Encapsulameto.pdb
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula39_04_02_2021\Cshp_Encapsulameto\obj\Debug\netcoreapp3.1\Cshp_Encapsulameto.csprojAssemblyReference.cache
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula39_04_02_2021\Cshp_Encapsulameto\obj\Debug\netcoreapp3.1\Cshp_Encapsulameto.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula39_04_02_2021\Cshp_Encapsulameto\obj\Debug\netcoreapp3.1\Cshp_Encapsulameto.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula39_04_02_2021\Cshp_Encapsulameto\obj\Debug\netcoreapp3.1\Cshp_Encapsulameto.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula39_04_02_2021\Cshp_Encapsulameto\obj\Debug\netcoreapp3.1\Cshp_Encapsulameto.dll
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula39_04_02_2021\Cshp_Encapsulameto\obj\Debug\netcoreapp3.1\Cshp_Encapsulameto.pdb
+C:\Users\Aluno\Documents\Antonio1DM\FPOO\Aula39_04_02_2021\Cshp_Encapsulameto\obj\Debug\netcoreapp3.1\Cshp_Encapsulameto.genruntimeconfig.cache
